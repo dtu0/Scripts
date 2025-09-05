@@ -4,7 +4,7 @@ objc = {
     "data": {
         "version_allowed": true,
         "user": {
-            "can_edit": false,
+            "can_edit": true,
             "track_stats": true,
             "account_created": "2023-07-14T03:56:12+00:00",
             "enable_sound_effects": true,
