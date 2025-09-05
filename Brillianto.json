@@ -4,7 +4,11 @@ objc = {
     "data": {
         "version_allowed": true,
         "user": {
-            "can_edit": true,
+            "identity": "mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF",
+            "email": "ff8c2qmp4m@privaterelay.appleid.com",
+            "first_name": "Fahad",
+            "last_name": "Bader",
+            "can_edit": false,
             "track_stats": true,
             "account_created": "2023-07-14T03:56:12+00:00",
             "enable_sound_effects": true,
@@ -12,11 +16,16 @@ objc = {
             "highlight_leagues_tab": true,
             "payment_status": {
                 "is_brilliant_square": true,
-                "brilliant_square_until": 1830297600,
+                "brilliant_square_until": 0,
                 "reason": "ok"
             },
             "b2_subscription": true,
-            "initial_super_properties": "{\"locale\": \"en\", \"account_type\": \"premium\", \"debug\": false, \"client\": \"ios-native\", \"sessionid\": \"nug5yi\", \"user_agent\": \"brilliant-ios-9.6.3\", \"identity\": \"mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF\", \"has_fb_connected\": false, \"join_ts\": \"2023-07-14T03:56:12.901000+00:00\", \"join_date\": \"2023-07-14\", \"join_month\": \"Jul 2023\", \"last_login\": \"2025-08-31 09:11:56.139868+00:00\", \"is_subscribed\": true, \"tries_made\": 89, \"createdAt\": 1689306972}"
+            "initial_super_properties": "{\"locale\": \"en\", \"account_type\": \"student\", \"debug\": false, \"client\": \"ios-native\", \"sessionid\": \"ldfxun\", \"user_agent\": \"brilliant-ios-9.7.0\", \"identity\": \"mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF\", \"has_fb_connected\": false, \"join_ts\": \"2023-07-14T03:56:12.901000+00:00\", \"join_date\": \"2023-07-14\", \"join_month\": \"Jul 2023\", \"last_login\": \"2025-09-05 21:26:22.693940+00:00\", \"is_subscribed\": true, \"tries_made\": 102, \"createdAt\": 1689306972}",
+            "lease_info": {
+                "course_leases_active": 0,
+                "course_leases_max": 0,
+                "active_leases_in_order_of_expiry": []
+            }
         },
         "experiments": {}
     },
