@@ -20,7 +20,7 @@ objc = {
                 "reason": "ok"
             },
             "b2_subscription": true,
-            "initial_super_properties": "{\"locale\": \"en\", \"account_type\": \"Premium\", \"debug\": false, \"client\": \"ios-native\", \"sessionid\": \"nug5yi\", \"user_agent\": \"brilliant-ios-9.6.3\", \"identity\": \"mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF\", \"has_fb_connected\": false, \"join_ts\": \"2023-07-14T03:56:12.901000+00:00\", \"join_date\": \"2023-07-14\", \"join_month\": \"Jul 2023\", \"last_login\": \"2025-08-31 09:11:56.139868+00:00\", \"is_subscribed\": true, \"tries_made\": 89, \"createdAt\": 1689306972}"
+            "initial_super_properties": "{\"locale\": \"en\", \"account_type\": \"student\", \"debug\": false, \"client\": \"ios-native\", \"sessionid\": \"nug5yi\", \"user_agent\": \"brilliant-ios-9.6.3\", \"identity\": \"mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF\", \"has_fb_connected\": false, \"join_ts\": \"2023-07-14T03:56:12.901000+00:00\", \"join_date\": \"2023-07-14\", \"join_month\": \"Jul 2023\", \"last_login\": \"2025-08-31 09:11:56.139868+00:00\", \"is_subscribed\": true, \"tries_made\": 89, \"createdAt\": 1689306972}"
         },
         "experiments": {}
     },
