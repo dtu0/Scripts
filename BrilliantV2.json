@@ -1,0 +1,17 @@
+var objc = JSON.parse($response.body);
+
+objc = {
+  "id": "12808439-9e27-4fa2-aa47-e0e9a549803f",
+  "banned": false,
+  "end_user_id": "mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF",
+  "metadata_": {
+    "email": "ff8c2qmp4m@privaterelay.appleid.com",
+    "is_staff": null,
+    "last_name": "Bader",
+    "first_name": "Fahad",
+    "is_premium": true,
+    "end_user_id": "mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF"
+  }
+};
+
+$done({ body: JSON.stringify(objc) });
