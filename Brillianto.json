@@ -6,7 +6,7 @@ objc = {
         "user": {
             "identity": "mrbnnyZuHrOZIo3BcrXTYqkWoxnxqCLF",
             "email": "ff8c2qmp4m@privaterelay.appleid.com",
-            "first_name": "3Mk",
+            "first_name": "Fahad",
             "last_name": "Bader",
             "can_edit": false,
             "track_stats": true,
@@ -16,7 +16,7 @@ objc = {
             "highlight_leagues_tab": true,
             "payment_status": {
                 "is_brilliant_square": true,
-                "brilliant_square_until": 0,
+                "brilliant_square_until": 2025,
                 "reason": "ok"
             },
             "b2_subscription": true,
