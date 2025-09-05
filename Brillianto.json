@@ -16,7 +16,7 @@ objc = {
             "highlight_leagues_tab": true,
             "payment_status": {
                 "is_brilliant_square": true,
-                "brilliant_square_until": 2025,
+                "brilliant_square_until": 2027-07-14T03:56:12+00:00,
                 "reason": "ok"
             },
             "b2_subscription": true,
